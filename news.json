@@ -51,11 +51,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='contact-form-7-css' href='https://einstein.amsterdam/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='theme-my-login-css' href='https://einstein.amsterdam/wp-content/plugins/theme-my-login/assets/styles/theme-my-login.min.css?ver=7.1.9' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-image-cropper-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/wp-image-cropper-public.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='public_hk_cropper_css-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/cropper.min.css?ver=1725730140' type='text/css' media='all' />
-<link rel='stylesheet' id='public_hk_main_css-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/main.css?ver=1725730140' type='text/css' media='all' />
-<link rel='stylesheet' id='public_hk_main_cfsddds-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/bootstrap.min.css?ver=1725730140' type='text/css' media='all' />
-<link rel='stylesheet' id='public_hk_responsive-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/hk_cropper_responsive.css?ver=1725730140' type='text/css' media='all' />
-<link rel='stylesheet' id='public_hk_custom_css-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/hk_cropper_custom.css?ver=1725730140' type='text/css' media='all' />
+<link rel='stylesheet' id='public_hk_cropper_css-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/cropper.min.css?ver=1725730212' type='text/css' media='all' />
+<link rel='stylesheet' id='public_hk_main_css-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/main.css?ver=1725730212' type='text/css' media='all' />
+<link rel='stylesheet' id='public_hk_main_cfsddds-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/bootstrap.min.css?ver=1725730212' type='text/css' media='all' />
+<link rel='stylesheet' id='public_hk_responsive-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/hk_cropper_responsive.css?ver=1725730212' type='text/css' media='all' />
+<link rel='stylesheet' id='public_hk_custom_css-css' href='https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/css/hk_cropper_custom.css?ver=1725730212' type='text/css' media='all' />
 <link rel='stylesheet' id='quotescollection-css' href='https://einstein.amsterdam/wp-content/plugins/quotes-collection/css/quotes-collection.css?ver=2.5.2' type='text/css' media='all' />
 <link rel='stylesheet' id='chld_thm_cfg_parent-css' href='https://einstein.amsterdam/wp-content/themes/mh-magazine-lite/style.css?ver=6.5.5' type='text/css' media='all' />
 <link rel='stylesheet' id='mh-magazine-lite-css' href='https://einstein.amsterdam/wp-content/themes/mh-magazine-lite-child02/style.css?ver=2.8.6.1596041024' type='text/css' media='all' />
@@ -78,7 +78,7 @@ loading_page_settings={"loadingScreen":1,"closeBtn":true,"removeInOnLoad":false,
 </script>
 <script type="text/javascript" src="https://einstein.amsterdam/wp-content/plugins/loading-page/js/loading-page.min.js?ver=free-1.1.17" id="codepeople-loading-page-script-js"></script>
 <script type="text/javascript" src="https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/js/wp-image-cropper-public.js?ver=1.0.0" id="wp-image-cropper-js"></script>
-<script type="text/javascript" src="https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/js/main.js?ver=1725730140" id="public_hk_main_js_hk-js"></script>
+<script type="text/javascript" src="https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/js/main.js?ver=1725730212" id="public_hk_main_js_hk-js"></script>
 <script type="text/javascript" id="quotescollection-js-extra">
 /* <![CDATA[ */
 var quotescollectionAjax = {"ajaxUrl":"https:\/\/einstein.amsterdam\/wp-admin\/admin-ajax.php","nonce":"4c95ef87f8","nextQuote":"Next quote \u00bb","loading":"Loading...","error":"Error getting quote","autoRefreshMax":"20","autoRefreshCount":"0"};
@@ -127,7 +127,7 @@ body.custom-background { background-color: #ffffff; background-image: url("https
 	<div class="mh-container mh-container-inner mh-row mh-clearfix">
 		<div class="mh-custom-header mh-clearfix">
 <a class="mh-header-image-link" href="https://einstein.amsterdam/" title="einstein.amsterdam – PD2EMC  Einstein  Amsterdam , Where it all starts" rel="home">
-<img class="mh-header-image" src="https://einstein.amsterdam/wp-content/uploads/einstein_banner4.png" height="400" width="1658" alt="einstein.amsterdam – PD2EMC  Einstein  Amsterdam , Where it all starts" />
+<img class="mh-header-image" src="https://einstein.amsterdam/wp-content/uploads/einstein_banner5.jpg" height="200" width="1170" alt="einstein.amsterdam – PD2EMC  Einstein  Amsterdam , Where it all starts" />
 </a>
 </div>
 	</div>
@@ -403,7 +403,7 @@ body.custom-background { background-color: #ffffff; background-image: url("https
 		<h1 class="entry-title page-title">Welcome</h1>	</header>
 	<div class="entry-content mh-clearfix">
 		<p><img fetchpriority="high" decoding="async" class="size-full wp-image-1231 aligncenter" src="https://einstein.amsterdam/wp-content/uploads/polaroid-albert-einstein.png" alt="" width="310" height="355" srcset="https://einstein.amsterdam/wp-content/uploads/polaroid-albert-einstein.png 310w, https://einstein.amsterdam/wp-content/uploads/polaroid-albert-einstein-262x300.png 262w" sizes="(max-width: 310px) 100vw, 310px" /></p>
-<blockquote class="quotescollection-quote"><p>The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift.</p>
+<blockquote class="quotescollection-quote"><p>The release of atom power has changed everything except our way of thinking&#8230;the solution to this problem lies in the heart of mankind. If only I had known, I should have become a watchmaker.</p>
 <footer class="attribution">&mdash;&nbsp;<cite class="author">Albert Einstein</cite></footer></blockquote>
 <p><center><br />
 Scan code on mobile device to access this page 🙂</center><br />
@@ -419,7 +419,7 @@ My neighbours son is into graffiti 🙂</center><br />
 	</div>
 </article>	</div>
 	<aside class="mh-widget-col-1 mh-sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar"><div id="rss-3" class="mh-widget widget_rss"><h4 class="mh-widget-title"><span class="mh-widget-title-inner"><a class="rsswidget rss-widget-feed" href="https://www.hamnieuws.nl/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="https://einstein.amsterdam/wp-includes/images/rss.png" alt="RSS" loading="lazy" /></a> <a class="rsswidget rss-widget-title" href="https://hamnieuws.nl/">Hamnieuws</a></span></h4><ul><li><a class='rsswidget' href='https://hamnieuws.nl/hamnieuws-na-10-jaar-qrt/'>Hamnieuws na 10 jaar QRT</a></li><li><a class='rsswidget' href='https://hamnieuws.nl/de-37e-uitgave-daru-magazine/'>De 37e uitgave DARU-magazine</a></li><li><a class='rsswidget' href='https://hamnieuws.nl/informatie-over-examen-doen-bij-het-cbr/'>Informatie over examen doen bij het CBR</a></li><li><a class='rsswidget' href='https://hamnieuws.nl/voorlopig-geen-nieuwe-uitgaven-van-daru-magazine/'>Voorlopig geen nieuwe uitgaven van DARU magazine</a></li><li><a class='rsswidget' href='https://hamnieuws.nl/de-36e-uitgave-daru-magazine/'>De 36e uitgave DARU-magazine</a></li><li><a class='rsswidget' href='https://hamnieuws.nl/24ghz-baken-pi7nos-geactiveerd/'>24GHz baken PI7NOS geactiveerd</a></li><li><a class='rsswidget' href='https://hamnieuws.nl/de-35e-uitgave-daru-magazine/'>De 35e uitgave DARU-magazine</a></li><li><a class='rsswidget' href='https://hamnieuws.nl/texel-krijgt-een-eigen-repeater/'>Texel krijgt een eigen repeater</a></li><li><a class='rsswidget' href='https://hamnieuws.nl/51-geslaagden-bij-radio-examens-in-houten/'>51 geslaagden bij radio-examens in Houten</a></li><li><a class='rsswidget' href='https://hamnieuws.nl/vereniging-rfdx-levert-30-nieuwe-radioamateurs-af/'>Vereniging RFDX levert 30 nieuwe radioamateurs af</a></li></ul></div><div id="rss-4" class="mh-widget widget_rss"><h4 class="mh-widget-title"><span class="mh-widget-title-inner"><a class="rsswidget rss-widget-feed" href="http://www.hamdigitaal.nl/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="https://einstein.amsterdam/wp-includes/images/rss.png" alt="RSS" loading="lazy" /></a> <a class="rsswidget rss-widget-title" href="https://www.hamdigitaal.nl/">Hamdigitaal</a></span></h4><ul><li><a class='rsswidget' href='https://www.hamdigitaal.nl/2024/04/grote-wijziging-aan-pi1ztm-tetra/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=grote-wijziging-aan-pi1ztm-tetra'>Grote wijziging aan PI6ZTM Tetra</a></li><li><a class='rsswidget' href='https://www.hamdigitaal.nl/2023/12/introductie-rtlsdr/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=introductie-rtlsdr'>Introductie RTLSDR</a></li><li><a class='rsswidget' href='https://www.hamdigitaal.nl/2023/08/nieuwe-rtl-sdr-blog-v4-dongle/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nieuwe-rtl-sdr-blog-v4-dongle'> Nieuwe RTL-SDR Blog V4 dongle</a></li><li><a class='rsswidget' href='https://www.hamdigitaal.nl/2023/07/tx-factor-episode-29/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tx-factor-episode-29'>TX Factor Episode 29</a></li><li><a class='rsswidget' href='https://www.hamdigitaal.nl/2023/06/remote-direction-finding-dragonos-krakensdr/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=remote-direction-finding-dragonos-krakensdr'>Remote Direction Finding DragonOS KrakenSDR</a></li><li><a class='rsswidget' href='https://www.hamdigitaal.nl/2023/05/icom-ic-905-ontvanger-gevoeligheid-en-power-output/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=icom-ic-905-ontvanger-gevoeligheid-en-power-output'>ICOM IC-905 ontvanger gevoeligheid en power output</a></li><li><a class='rsswidget' href='https://www.hamdigitaal.nl/2023/04/handleiding-ftm-500/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=handleiding-ftm-500'>Handleiding FTM-500</a></li><li><a class='rsswidget' href='https://www.hamdigitaal.nl/2023/03/openwenrx-met-decoders/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=openwenrx-met-decoders'>OpenWenRX+ met decoders</a></li><li><a class='rsswidget' href='https://www.hamdigitaal.nl/2023/03/antsdr-e200-uhd-en-pluto/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=antsdr-e200-uhd-en-pluto'>ANTSDR  E200 UHD en PLUTO</a></li><li><a class='rsswidget' href='https://www.hamdigitaal.nl/2023/02/maia-sdr-met-je-adalm-pluto/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=maia-sdr-met-je-adalm-pluto'>Maia SDR met je Adalm Pluto</a></li></ul></div><div id="quotescollection-2" class="mh-widget widget_quotescollection"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">Random Quote</span></h4>
-<div class="quotescollection-quote-wrapper" id="w_quotescollection_2"><p>A table, a chair, a bowl of fruit and a violin; what else does a man need to be happy.</p>
+<div class="quotescollection-quote-wrapper" id="w_quotescollection_2"><p>The release of atom power has changed everything except our way of thinking&#8230;the solution to this problem lies in the heart of mankind. If only I had known, I should have become a watchmaker.</p>
 <div class="attribution">&mdash;&nbsp;<cite class="author">Albert Einstein</cite></div></div></div><div id="custom_html-2" class="widget_text mh-widget widget_custom_html"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">Agentschap Telecom</span></h4><div class="textwidget custom-html-widget">This form provides information regarding the availability of a callsign for amateur radio use. Common callsign
 combinations starting with the prefixes PA to PH, PI4, PI5 and PI9 can be checked.
 <td><form method="POST" action="https://appl.agentschaptelecom.nl/callbook/cgi-bin/callboek.cgi" target=_blank>
@@ -432,7 +432,7 @@ combinations starting with the prefixes PA to PH, PI4, PI5 and PI9 can be checke
     <input type="submit" value="Search" name="button" />
   </p>
 </form>
-</td></div></div><div id="gtranslate-2" class="mh-widget widget_gtranslate"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">Translate website</span></h4><div class="gtranslate_wrapper" id="gt-wrapper-85582799"></div></div></aside></div>
+</td></div></div><div id="gtranslate-2" class="mh-widget widget_gtranslate"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">Translate website</span></h4><div class="gtranslate_wrapper" id="gt-wrapper-56453598"></div></div></aside></div>
 <center><div class="mh-copyright-wrap">
 	<div class="mh-container mh-container-inner mh-clearfix">
 		<p class="mh-copyright"><a href="https://einstein.amsterdam">Copyright &copy; 2024 | Proudly powered by Einstein aka PD2EMC	</p></a>
@@ -464,8 +464,8 @@ var themeMyLogin = {"action":"","errors":[]};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://einstein.amsterdam/wp-content/plugins/theme-my-login/assets/scripts/theme-my-login.min.js?ver=7.1.9" id="theme-my-login-js"></script>
-<script type="text/javascript" src="https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/js/cropper.min.js?ver=1725730140" id="public_hk_crop_js-js"></script>
-<script type="text/javascript" src="https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/js/bootstrap.min.js?ver=1725730140" id="public_hk_bootstrap_min_js-js"></script>
+<script type="text/javascript" src="https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/js/cropper.min.js?ver=1725730212" id="public_hk_crop_js-js"></script>
+<script type="text/javascript" src="https://einstein.amsterdam/wp-content/plugins/wp-image-cropper/public/js/bootstrap.min.js?ver=1725730212" id="public_hk_bootstrap_min_js-js"></script>
 <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LdP8xwTAAAAAJtQP_fYA3HYOVsObBQ5MSl8PUyX&amp;ver=3.0" id="google-recaptcha-js"></script>
 <script type="text/javascript" id="wpcf7-recaptcha-js-extra">
 /* <![CDATA[ */
@@ -473,10 +473,10 @@ var wpcf7_recaptcha = {"sitekey":"6LdP8xwTAAAAAJtQP_fYA3HYOVsObBQ5MSl8PUyX","act
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://einstein.amsterdam/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9.8" id="wpcf7-recaptcha-js"></script>
-<script type="text/javascript" id="gt_widget_script_85582799-js-before">
+<script type="text/javascript" id="gt_widget_script_56453598-js-before">
 /* <![CDATA[ */
-window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['85582799'] = {"default_language":"en","languages":["ar","bg","zh-CN","cs","nl","en","fr","de","it","ja","pt","ru","sk","es","tr"],"url_structure":"none","flag_style":"2d","flag_size":16,"wrapper_selector":"#gt-wrapper-85582799","alt_flags":[],"switcher_open_direction":"top","switcher_horizontal_position":"inline","switcher_text_color":"#000000","switcher_arrow_color":"#666666","switcher_border_color":"#898989","switcher_background_color":"#ffffff","switcher_background_shadow_color":"#efefef","switcher_background_hover_color":"#f0f0f0","dropdown_text_color":"#000000","dropdown_hover_color":"#81d742","dropdown_background_color":"#eeeeee","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['56453598'] = {"default_language":"en","languages":["ar","bg","zh-CN","cs","nl","en","fr","de","it","ja","pt","ru","sk","es","tr"],"url_structure":"none","flag_style":"2d","flag_size":16,"wrapper_selector":"#gt-wrapper-56453598","alt_flags":[],"switcher_open_direction":"top","switcher_horizontal_position":"inline","switcher_text_color":"#000000","switcher_arrow_color":"#666666","switcher_border_color":"#898989","switcher_background_color":"#ffffff","switcher_background_shadow_color":"#efefef","switcher_background_hover_color":"#f0f0f0","dropdown_text_color":"#000000","dropdown_hover_color":"#81d742","dropdown_background_color":"#eeeeee","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
 /* ]]> */
-</script><script src="https://einstein.amsterdam/wp-content/plugins/gtranslate/js/dwf.js?ver=6.5.5" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/" data-gt-orig-domain="einstein.amsterdam" data-gt-widget-id="85582799" defer></script></center>
+</script><script src="https://einstein.amsterdam/wp-content/plugins/gtranslate/js/dwf.js?ver=6.5.5" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/" data-gt-orig-domain="einstein.amsterdam" data-gt-widget-id="56453598" defer></script></center>
 </body>
 </html>
