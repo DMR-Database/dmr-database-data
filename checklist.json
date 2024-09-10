@@ -1,11 +1,11 @@
 [
   {
     "filename": "count.json",
-    "md5": "11ac87935532af55c8c2d28e3d84caa3"
+    "md5": "a6dbab82d0533766364da16c488800c6"
   },
   {
     "filename": "dapnet.json",
-    "md5": "f1da89f36ab7700981b48c3101ad91d6"
+    "md5": "adeabd642beb35f706907c2b27acaf91"
   },
   {
     "filename": "hamvoip.json",
@@ -17,14 +17,14 @@
   },
   {
     "filename": "radioid.json",
-    "md5": "b1bbc64d3fca301269403ed61167bd98"
+    "md5": "ebd404e7083313439a06f6d72f4c05e3"
   },
   {
     "filename": "rptrs.json",
-    "md5": "c540c1742315a34db9961ecc2160bad3"
+    "md5": "a5c1232cdf5f697506a58def04bd343c"
   },
   {
     "filename": "radio_database.db",
-    "md5": "a0672205064cb6e240e6acd89dbe4c8d"
+    "md5": "42e48fd316870175175dae1fe129edb5"
   }
 ]
