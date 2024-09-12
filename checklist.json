@@ -1,7 +1,7 @@
 [
   {
     "filename": "count.json",
-    "md5": "7eb0f4e4bb56a75c4197025d12fb0682"
+    "md5": "f8e89cf90f0187e6d70943179e00fa18"
   },
   {
     "filename": "dapnet.json",
@@ -9,7 +9,7 @@
   },
   {
     "filename": "hamvoip.json",
-    "md5": "37441551beb9b9f3a390b52ef58556a4"
+    "md5": "7a2d80583e72e9c775e202a087fd0089"
   },
   {
     "filename": "news.json",
@@ -25,6 +25,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "a7d37e243463acfdc9b865e94c321078"
+    "md5": "779572596b99b1f95944eef78eb82ae9"
   }
 ]
