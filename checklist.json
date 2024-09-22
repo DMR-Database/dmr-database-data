@@ -1,11 +1,11 @@
 [
   {
     "filename": "count.json",
-    "md5": "c2511ff4c02cccafcb8aa4ad7f81a044"
+    "md5": "c88b52deab646cc4b225a5298bc6e101"
   },
   {
     "filename": "dapnet.json",
-    "md5": "bcc1077b91afe2ef0dfe4eda6013d966"
+    "md5": "32988a2939acce6d0d4b0ef21c59e979"
   },
   {
     "filename": "hamvoip.json",
@@ -29,6 +29,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "4f5759169fa4c5075f0a441b9555aeca"
+    "md5": "4ef7115c827c5317883fc4020927223b"
   }
 ]
