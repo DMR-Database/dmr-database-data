@@ -1,7 +1,7 @@
 [
   {
     "filename": "count.json",
-    "md5": "e6b4b815e80a617d28a7999750267aca"
+    "md5": "7675bcf66a6d70c9aaf7b1cd088b9cdf"
   },
   {
     "filename": "dapnet.json",
@@ -17,11 +17,11 @@
   },
   {
     "filename": "radioid.json",
-    "md5": "1f31537a7a811a09403b88840c57e180"
+    "md5": "73cd481e1df575c5648581d70102a982"
   },
   {
     "filename": "rptrs.json",
-    "md5": "35163c09b1853492defd1965af9d9764"
+    "md5": "227df4d11f966c18d702594fa08e8fef"
   },
   {
     "filename": "winners.json",
@@ -29,7 +29,7 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "bfdaf2b9ffe6b6fd962aedd5aae1e895"
+    "md5": "1b0ea6391589fd70557c27eec6ec73e6"
   },
   {
     "filename": "com.einstein.dmr-database-app.apk",
