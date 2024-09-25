@@ -15,7 +15,7 @@ Usage Data: Information on how the App is accessed and used, such as the time an
 User Preferences: Personalize your experience, such as theme modes (light, dark, custom) and color settings, which are stored locally.
 Database Search: Facilitate searching for DMR users and callsigns from local stored databases.
 QRZ.com Image Retrieval: Fetch and display profile images from QRZ.com based on the callsign entered by the user.
-Easter Egg Features: Track Easter egg discoveries for user enjoyment and show hints or status of found eggs (stored locally).
+Easter Egg Features: Track Easter egg discoveries for user enjoyment and show hints or status of found eggs (stored locally). When finishing the Easteregg Hunt (Fox Hunt) then callsign, comment and deviceid are send to the Winner Database thru api.
 
 3. Data Storage
 All preferences and settings (e.g., color themes, found Easter eggs) are stored locally on your device. No personal data is transmitted or stored on external servers.
