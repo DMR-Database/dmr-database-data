@@ -14,7 +14,7 @@ Device Information: We may collect non-personal information about your device (e
 User Preferences: Personalize your experience, such as theme modes (light, dark, custom), color settings and callsign, which are stored locally.
 Database Search: Facilitate searching for DMR users and callsigns from local stored databases.
 QRZ.com Image Retrieval: Fetch and display profile images from QRZ.com based on the callsign entered by the user.
-Foxhunt Features: Track Foxhunt discoveries for user enjoyment and show hints or status of found eggs (stored locally). When finishing the Easteregg Hunt (Fox Hunt) then callsign, comment and device info are send to the Winner Database thru api. The winners are stored in app_winners in format callsign	comment	date. 
+Foxhunt Features: Track Foxhunt discoveries for user enjoyment and show hints or status of found eggs (stored locally). When finishing the Fox Hunt then callsign, comment and device info are send to the Winner Database thru api. The winners are stored in app_winners in format callsign	comment	date. 
 
 3. Data Storage
 All preferences and settings (e.g., color themes, found Foxhunt discoveries) are stored locally on your device. No personal data is transmitted or stored on external servers.
