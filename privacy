@@ -18,6 +18,7 @@ Foxhunt Features: Track Foxhunt discoveries for user enjoyment and show hints or
 
 3. Data Storage
 All preferences and settings (e.g., color themes, found Foxhunt discoveries) are stored locally on your device. No personal data is transmitted or stored on external servers.
+Foxhunt Features: Track Foxhunt discoveries for user enjoyment and show hints or status of found eggs (stored locally). When finishing the Fox Hunt then callsign, comment and device info are send to the Winner Database thru api. The winners are stored in app_winners database in the format callsign, comment and date. 
 
 4. Data Sharing and Disclosure
 We do not share, sell, or transfer your personal information to third parties. The App only connects to external services (e.g., QRZ.com) when explicitly required to retrieve images based on callsign inputs. However, such third-party services may collect their own data according to their privacy policies.
