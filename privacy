@@ -10,11 +10,13 @@ Shared Preferences: The App may store certain preferences, such as theme setting
 b. Non-Personal Information
 Device Information: We may collect non-personal information about your device (e.g., device model, operating system version) to enhance app performance.
 Usage Data: Information on how the App is accessed and used, such as the time and date of your sessions, may be collected to improve the App experience.
+
 2. How We Use Your Information
 User Preferences: Personalize your experience, such as theme modes (light, dark, custom) and color settings, which are stored locally.
-Database Search: Facilitate searching for DMR users and callsigns from local or server databases.
+Database Search: Facilitate searching for DMR users and callsigns from local stored databases.
 QRZ.com Image Retrieval: Fetch and display profile images from QRZ.com based on the callsign entered by the user.
-Easter Egg Features: Track Easter egg discoveries for user enjoyment and show hints or status of found eggs.
+Easter Egg Features: Track Easter egg discoveries for user enjoyment and show hints or status of found eggs (stored locally).
+
 3. Data Storage
 All preferences and settings (e.g., color themes, found Easter eggs) are stored locally on your device. No personal data is transmitted or stored on external servers.
 
