@@ -1,11 +1,11 @@
 [
   {
     "filename": "count.json",
-    "md5": "1b5dc85a05511cfa61b0ca52e87d7736"
+    "md5": "9f07da36808a3f10bcf28980009c571f"
   },
   {
     "filename": "dapnet.json",
-    "md5": "906b6fd8870a1ecb01cabbdc3a352c18"
+    "md5": "cec62dc03c1fdb783ea8b13cbacb6fea"
   },
   {
     "filename": "hamvoip.json",
@@ -13,7 +13,7 @@
   },
   {
     "filename": "news.json",
-    "md5": "603ecefae46aaa6e2b843897d38b862d"
+    "md5": "5af2cc36674cb378357d6a4678a9ea8e"
   },
   {
     "filename": "radioid.json",
@@ -29,14 +29,14 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "11ba19ed8d819652920863d1de6066e2"
+    "md5": "44cffad3e1a400093f13920b5cc336f2"
   },
   {
     "filename": "com.einstein.dmr-database-app.apk",
-    "md5": "353268b2f217e6564d79f4712806fe79"
+    "md5": "98efa108b1bb282dc4465b8f5978d7c5"
   },
   {
     "filename": "dmr-app-dmg.zip",
-    "md5": "fd110119e2a30085dfa4bf63c08a9135"
+    "md5": "0fa498727ea494127de513a57c761ae0"
   }
 ]
