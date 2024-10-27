@@ -13,11 +13,11 @@
   },
   {
     "filename": "news.json",
-    "md5": "3b4c41e749990d99cfc663669ca60917"
+    "md5": "b06fb9d95f9269d8fb54ec1fa0dc8a5b"
   },
   {
     "filename": "nxdn.json",
-    "md5": "ef97876f547fa72391db04254ecdb122"
+    "md5": "69c01105a777feab9d9fb0b510796640"
   },
   {
     "filename": "radioid.json",
@@ -33,6 +33,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "ce0b7a85d2e8d2e8a1314ef328eb7fde"
+    "md5": "104be1237b5e1b380d2637bd483621d7"
   }
 ]
