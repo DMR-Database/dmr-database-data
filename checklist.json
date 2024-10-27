@@ -16,6 +16,10 @@
     "md5": "8c4efe3b5551d16817394049e3b4d07f"
   },
   {
+    "filename": "nxdn.json",
+    "md5": "8e9c6fa207392186f4771345d8647c3b"
+  },
+  {
     "filename": "radioid.json",
     "md5": "3096ef18c15b5f7598e582c9fd6d5000"
   },
@@ -29,6 +33,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "5d36dfd299e0a4cd0d773c72b4d3d2d2"
+    "md5": "2d6d789d5df0dcb880f3ef9e6a756601"
   }
 ]
