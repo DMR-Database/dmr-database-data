@@ -1,7 +1,7 @@
 [
   {
     "filename": "count.json",
-    "md5": "088520843e819daaab5f1360f3d5fca3"
+    "md5": "dd0d9295906f0975909f72de3abb7794"
   },
   {
     "filename": "dapnet.json",
@@ -13,7 +13,7 @@
   },
   {
     "filename": "maps.json",
-    "md5": "52088e1e0dd12373f0efe40c82201cca"
+    "md5": "2f45d20b9f7871e35392dd762cc7f933"
   },
   {
     "filename": "news.json",
@@ -37,6 +37,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "bebbe955749935e00cf2a504d8b16bc8"
+    "md5": "eb9a00971a146ea667a808d4e3362a89"
   }
 ]
