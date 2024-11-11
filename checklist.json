@@ -1,46 +1,46 @@
 [
   {
     "filename": "count.json",
-    "md5": "40e03885c5ff1196bb3392aa15d96446"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "filename": "dapnet.json",
-    "md5": "8c76678b98200e7b6b225b9895f8f5df"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "filename": "hackerspaces.json",
-    "md5": "f3ee2a37023887f22b4c2b19e420003a"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "filename": "hamvoip.json",
-    "md5": "f615f59e0304a81ebfb8e035f15517a3"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "filename": "maps.json",
-    "md5": "2244944f8bb863cb59013977204258bb"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "filename": "news.json",
-    "md5": "feed0897a0ba2bea12f0a2a27bffc84f"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "filename": "nxdn.json",
-    "md5": "37b63b0d7a2ea61d916711c85fb1f7ec"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "filename": "radioid.json",
-    "md5": "0a737d9dcbd817dee1f302d333c9ca36"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "filename": "rptrs.json",
-    "md5": "11e1534d5443bae17a6cf0e082b215cb"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "filename": "winners.json",
-    "md5": "1e70040b25281813d00474b58916683d"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "filename": "radio_database.db",
-    "md5": "b291e252555df6bea0e0a136d0a7317d"
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   }
 ]
