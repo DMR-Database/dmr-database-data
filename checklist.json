@@ -8,6 +8,10 @@
     "md5": "8c76678b98200e7b6b225b9895f8f5df"
   },
   {
+    "filename": "hackerspaces.json",
+    "md5": "ab2a897a015d411a992e92a2edb2feb7"
+  },
+  {
     "filename": "hamvoip.json",
     "md5": "f615f59e0304a81ebfb8e035f15517a3"
   },
@@ -37,6 +41,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "4806e47f12e322e5a2055078955b6ec2"
+    "md5": "4ed8b3cc62bd16288219348c146f9231"
   }
 ]
