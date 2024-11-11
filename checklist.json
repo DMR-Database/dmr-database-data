@@ -9,7 +9,7 @@
   },
   {
     "filename": "hackerspaces.json",
-    "md5": "ab2a897a015d411a992e92a2edb2feb7"
+    "md5": "2d03197b1592595a584171602cb6262a"
   },
   {
     "filename": "hamvoip.json",
@@ -21,7 +21,7 @@
   },
   {
     "filename": "news.json",
-    "md5": "a5d2c08c7a0ebc5b693aa45de8cc7a69"
+    "md5": "c2b385c2e8b456771d98b4a7bb1e7112"
   },
   {
     "filename": "nxdn.json",
@@ -41,6 +41,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "4ed8b3cc62bd16288219348c146f9231"
+    "md5": "469996f434a6d1bfb64e69cd8f84146c"
   }
 ]
