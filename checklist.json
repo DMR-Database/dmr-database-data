@@ -1,11 +1,11 @@
 [
   {
     "filename": "count.json",
-    "md5": "20e36af4e4790db1f34002d1c0784af7"
+    "md5": "b66152b9f2302d12b6bc859670a4e585"
   },
   {
     "filename": "dapnet.json",
-    "md5": "2e1e016fbea4755decbe25d1294c672b"
+    "md5": "ca8b32d1ac2dcb72947f7ce48c418f1c"
   },
   {
     "filename": "hackerspaces.json",
@@ -41,6 +41,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "eb112ab51455132d08fdf14ff33c63c6"
+    "md5": "d1c55c15a799a071ef47df4c277924d7"
   }
 ]
