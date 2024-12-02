@@ -1,7 +1,7 @@
 [
   {
     "filename": "count.json",
-    "md5": "7c2dae4f2e857e388e84b5b7f32befe2"
+    "md5": "8b103055bb4d29d34ed0e71a2a10aa70"
   },
   {
     "filename": "dapnet.json",
@@ -17,7 +17,7 @@
   },
   {
     "filename": "maps.json",
-    "md5": "ac5692da259ee90a3dc2360e8cb1153c"
+    "md5": "400503ef9830f8311b9e23e0947a6f5c"
   },
   {
     "filename": "news.json",
@@ -25,15 +25,15 @@
   },
   {
     "filename": "nxdn.json",
-    "md5": "36d5a6e40db188e93f5a73a4ccf2d23c"
+    "md5": "48aa10bb10b28e6a94291c9b7dc8e602"
   },
   {
     "filename": "radioid.json",
-    "md5": "ae81ad79ffc91f68dd7ec3b644d6949b"
+    "md5": "0b2f0772f713c6649e401b8f7b06eb86"
   },
   {
     "filename": "rptrs.json",
-    "md5": "79f39f3f668f876fbeff7d6d0f3723ca"
+    "md5": "ff2a6b05a5daa84eab35d2a36fd23100"
   },
   {
     "filename": "winners.json",
@@ -41,6 +41,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "b46e0170a1cb68a21bb13da0ace3fe50"
+    "md5": "e9631d6232ab1adb157668696f506a03"
   }
 ]
