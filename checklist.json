@@ -21,7 +21,7 @@
   },
   {
     "filename": "news.json",
-    "md5": "44ddd82457b1528a36ef6afc23af4cea"
+    "md5": "4e25d2b8bfc9630e4146692fc850c6da"
   },
   {
     "filename": "nxdn.json",
@@ -44,11 +44,15 @@
     "md5": "1e70040b25281813d00474b58916683d"
   },
   {
-    "filename": "encrypted_database.db",
+    "filename": "radio_database.db",
     "md5": "d1acec8f23961fd3cf43326c666573dd"
   },
   {
-    "filename": "radio_database.db",
-    "md5": "d1acec8f23961fd3cf43326c666573dd"
+    "filename": "radio_database_enc.db",
+    "md5": "f019262fc433f406ecc201c5b2e3b4a4"
+  },
+  {
+    "filename": "unencrypted_database.db",
+    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   }
 ]
