@@ -21,7 +21,7 @@
   },
   {
     "filename": "news.json",
-    "md5": "5ae164b2468b26e18b2ea5f483716af6"
+    "md5": "44ddd82457b1528a36ef6afc23af4cea"
   },
   {
     "filename": "nxdn.json",
@@ -42,6 +42,10 @@
   {
     "filename": "winners.json",
     "md5": "1e70040b25281813d00474b58916683d"
+  },
+  {
+    "filename": "encrypted_database.db",
+    "md5": "d1acec8f23961fd3cf43326c666573dd"
   },
   {
     "filename": "radio_database.db",
