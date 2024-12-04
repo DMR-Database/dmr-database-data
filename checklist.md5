@@ -3,12 +3,12 @@
 f3ee2a37023887f22b4c2b19e420003a  hackerspaces.json
 f615f59e0304a81ebfb8e035f15517a3  hamvoip.json
 76ec1e8025bcdf806cbc81bb6cf27e38  maps.json
-6e37617b82e5b9b61f40b0dd48e4dbd4  news.json
+4ebfaeb5f49dc92141c8a6608d58a5f2  news.json
 6cfbf5cacf05f1dd6435416864a6f995  nxdn.json
 a2b1739ea5fb23db088b7dcded5fe152  radioid.json
 1712345d0f2c35ba04f354e8523e6d9e  radioidmaps.json
 7055e634c5cd4391eca5844fe7dfcc63  rptrs.json
 1e70040b25281813d00474b58916683d  winners.json
 d1acec8f23961fd3cf43326c666573dd  radio_database.db
-f019262fc433f406ecc201c5b2e3b4a4  radio_database_enc.db
+d1acec8f23961fd3cf43326c666573dd  radio_database_enc.db
 d41d8cd98f00b204e9800998ecf8427e  unencrypted_database.db
