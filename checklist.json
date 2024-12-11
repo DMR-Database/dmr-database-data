@@ -5,7 +5,7 @@
   },
   {
     "filename": "dapnet.json",
-    "md5": "3f2539a06f642d8a99c1c37431159bf2"
+    "md5": "16e580c5d215f003d2f42a28b3c27c24"
   },
   {
     "filename": "hackerspaces.json",
@@ -16,10 +16,6 @@
     "md5": "8683d9bee61ef0f267eb91ba0fc1c793"
   },
   {
-    "filename": "maps.json",
-    "md5": "ead2c7e62c948959b8b96433b61b81e7"
-  },
-  {
     "filename": "news.json",
     "md5": "14098cea7a7eeae05af784ce188c025a"
   },
@@ -28,12 +24,16 @@
     "md5": "8027d08127bebf0e354b86f6405942c2"
   },
   {
+    "filename": "radiobookmaps.json",
+    "md5": "1712345d0f2c35ba04f354e8523e6d9e"
+  },
+  {
     "filename": "radioid.json",
     "md5": "4439b02ecedd8533d7008cf001381bae"
   },
   {
     "filename": "radioidmaps.json",
-    "md5": "1712345d0f2c35ba04f354e8523e6d9e"
+    "md5": "ead2c7e62c948959b8b96433b61b81e7"
   },
   {
     "filename": "rptrs.json",
@@ -45,7 +45,7 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "7fdfaabe414eece80f9223d338a6d983"
+    "md5": "73861fa0fbd2f8502d8c3e9536692d2d"
   },
   {
     "filename": "radio_database_enc.db",
