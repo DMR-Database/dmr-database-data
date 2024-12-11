@@ -24,16 +24,16 @@
     "md5": "8027d08127bebf0e354b86f6405942c2"
   },
   {
-    "filename": "radiobookmaps.json",
-    "md5": "1712345d0f2c35ba04f354e8523e6d9e"
-  },
-  {
     "filename": "radioid.json",
     "md5": "4439b02ecedd8533d7008cf001381bae"
   },
   {
     "filename": "radioidmaps.json",
     "md5": "ead2c7e62c948959b8b96433b61b81e7"
+  },
+  {
+    "filename": "repeaterbookmaps.json",
+    "md5": "1712345d0f2c35ba04f354e8523e6d9e"
   },
   {
     "filename": "rptrs.json",
@@ -45,7 +45,7 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "73861fa0fbd2f8502d8c3e9536692d2d"
+    "md5": "80b3051099aa65739ae56974a074d850"
   },
   {
     "filename": "radio_database_enc.db",
