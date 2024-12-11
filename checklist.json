@@ -17,7 +17,7 @@
   },
   {
     "filename": "news.json",
-    "md5": "fb0ea26ef350107bd7aad9e7e6bb0dcb"
+    "md5": "4c6a9a1e733f078a4e86601b8f4ca680"
   },
   {
     "filename": "nxdn.json",
@@ -45,18 +45,10 @@
   },
   {
     "filename": "maps_database.db",
-    "md5": "f524df7560ccae4fbdc1ac95f649c1f9"
+    "md5": "d49fff97eee40ca5498ae5e568ffc574"
   },
   {
     "filename": "radio_database.db",
     "md5": "80b3051099aa65739ae56974a074d850"
-  },
-  {
-    "filename": "radio_database_enc.db",
-    "md5": "4f05ae8f3ac63cd1963115d9de9db461"
-  },
-  {
-    "filename": "unencrypted_database.db",
-    "md5": "d41d8cd98f00b204e9800998ecf8427e"
   }
 ]
