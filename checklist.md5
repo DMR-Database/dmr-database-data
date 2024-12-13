@@ -1,3 +1,4 @@
+9b401e2c4f4bccf3709dba6cd4d1cdbe  author.json
 ece3b63d71b46833a6ec35e0a75143d2  count.json
 3799a728c376c3ccf4e212314054b0dc  dapnet.json
 986be254bc01432ac4c0ebdae8d37d28  hackerspaces.json
@@ -9,5 +10,5 @@ c08eb0ccc7adec9086c3be20ee564ba5  nxdn.json
 1712345d0f2c35ba04f354e8523e6d9e  repeaterbookmaps.json
 f41d0dcfbbe2bbfccbb59ef3185cee4e  rptrs.json
 1e70040b25281813d00474b58916683d  winners.json
-d49fff97eee40ca5498ae5e568ffc574  maps_database.db
+49eb1f9f74fec700bc75b178dc4da0b6  maps_database.db
 28d9d4f2a342852c75d1b5e14da09d0e  radio_database.db

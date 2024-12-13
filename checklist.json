@@ -1,5 +1,9 @@
 [
   {
+    "filename": "author.json",
+    "md5": "9b401e2c4f4bccf3709dba6cd4d1cdbe"
+  },
+  {
     "filename": "count.json",
     "md5": "ece3b63d71b46833a6ec35e0a75143d2"
   },
@@ -45,7 +49,7 @@
   },
   {
     "filename": "maps_database.db",
-    "md5": "d49fff97eee40ca5498ae5e568ffc574"
+    "md5": "49eb1f9f74fec700bc75b178dc4da0b6"
   },
   {
     "filename": "radio_database.db",
