@@ -21,7 +21,7 @@
   },
   {
     "filename": "news.json",
-    "md5": "06c34a36fae72420b58d667e65ad9360"
+    "md5": "945a5319a3fc33222459b82dae3d18f4"
   },
   {
     "filename": "nxdn.json",
@@ -50,6 +50,10 @@
   {
     "filename": "maps_database.db",
     "md5": "f1fca1b791bbdb702f14b0f075810586"
+  },
+  {
+    "filename": "radio_database.db",
+    "md5": "f075b492d00612848a568b30d3e81486"
   },
   {
     "filename": "radio_test_database.db",
