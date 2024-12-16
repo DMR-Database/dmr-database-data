@@ -5,11 +5,11 @@
   },
   {
     "filename": "count.json",
-    "md5": "39dcb93ffe38861fb4595072763e7e33"
+    "md5": "2f6b3fa0524fddddfc134a441f7580ce"
   },
   {
     "filename": "dapnet.json",
-    "md5": "cc1486f0881caa14bc1d55f0f020c9a7"
+    "md5": "10d2aa19374ab56101870655c12b3e37"
   },
   {
     "filename": "hackerspaces.json",
@@ -25,15 +25,15 @@
   },
   {
     "filename": "nxdn.json",
-    "md5": "92b0d0a1162ded280848db3eba35bba5"
+    "md5": "e67c4f88fd8e3c768152bc8a6263958b"
   },
   {
     "filename": "radioid.json",
-    "md5": "8739d471da119f827d2dea51777897f5"
+    "md5": "a4bd6b781c7fd74fbf518671fc66f90b"
   },
   {
     "filename": "radioidmaps.json",
-    "md5": "224e709797f172b38a7d812b511d6a74"
+    "md5": "62435c8f656715a2abdaf0a678412f56"
   },
   {
     "filename": "repeaterbookmaps.json",
@@ -41,7 +41,7 @@
   },
   {
     "filename": "rptrs.json",
-    "md5": "1215d2b27194255342d1102ccc122832"
+    "md5": "f785ceca8ca90a25fac25bc87a22d353"
   },
   {
     "filename": "winners.json",
@@ -53,6 +53,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "4e2d6cd9a8f55c90fe6a6b6824287372"
+    "md5": "f2a3232ffb1c8aac18475ab9d05f5039"
   }
 ]
