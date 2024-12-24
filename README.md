@@ -62,6 +62,6 @@ Download the DMR User Database app today and keep the global DMR community at yo
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# dmr-database-data
-DMR Database Data for App (Webapp,Android,Macos (soon ios,windows)
+# dmr-database-appdata
+DMR Database Data for App
 
