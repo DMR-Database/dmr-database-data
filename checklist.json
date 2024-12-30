@@ -5,11 +5,11 @@
   },
   {
     "filename": "count.json",
-    "md5": "bff59dfc40858855d2b53111d8b53fc5"
+    "md5": "c07056caf7bb42b0144fc8d4b967c9e6"
   },
   {
     "filename": "dapnet.json",
-    "md5": "5d276aac5ab97b13616c5804673478a0"
+    "md5": "1e5bfaff302e3c6a4251ff9b97378bf6"
   },
   {
     "filename": "hackerspaces.json",
@@ -17,7 +17,7 @@
   },
   {
     "filename": "hamvoip.json",
-    "md5": "8683d9bee61ef0f267eb91ba0fc1c793"
+    "md5": "06c51fb6d514c84ec9ccc8ea719b0175"
   },
   {
     "filename": "news.json",
@@ -33,7 +33,7 @@
   },
   {
     "filename": "radioidmaps.json",
-    "md5": "c2c81ebe6b5bb16d32f3940f76653792"
+    "md5": "58e0494c51d30eb3494f7c9198986bb9"
   },
   {
     "filename": "repeaterbookmaps.json",
@@ -53,6 +53,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "95acb6ea3207a1be25dd01225dd8e382"
+    "md5": "c213488c4d6871dcba2b2b039bd18be4"
   }
 ]
