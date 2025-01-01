@@ -1,15 +1,15 @@
 [
   {
     "filename": "author.json",
-    "md5": "6a9a3aacf18f76a786ef6238575c972e"
+    "md5": "06d0d9ee7e51a147cfc1253c7e6eaf7e"
   },
   {
     "filename": "count.json",
-    "md5": "983fd07757fd56580b5dfd97c956d316"
+    "md5": "1c040cc0aa7dbe9ff9cfe731811079ba"
   },
   {
     "filename": "dapnet.json",
-    "md5": "a8a59507834734095f376533777f27d6"
+    "md5": "7597b3ae438e2601095ab51db2977643"
   },
   {
     "filename": "hackerspaces.json",
@@ -21,7 +21,7 @@
   },
   {
     "filename": "news.json",
-    "md5": "ee887e4ff8cf48e0f1a52d0dc754ac8f"
+    "md5": "64c4f3430aebc7b895ff47b08bd4ec54"
   },
   {
     "filename": "nxdn.json",
@@ -53,6 +53,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "0dab5b63009374647ac625db8e35e49f"
+    "md5": "7175ec44e15747802fcee34abfa5edb6"
   }
 ]
