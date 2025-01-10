@@ -5,11 +5,11 @@
   },
   {
     "filename": "count.json",
-    "md5": "90d2044fe37ed09ceeedaf61ea1ccaf5"
+    "md5": "9eb35c46a3089c24c41269c21ec1c0c8"
   },
   {
     "filename": "dapnet.json",
-    "md5": "b6d136904c6bc40f96264059c255b472"
+    "md5": "1323353d8ee4424a76f6679084197cd3"
   },
   {
     "filename": "hackerspaces.json",
@@ -29,7 +29,7 @@
   },
   {
     "filename": "radioid.json",
-    "md5": "cd5f43c7a410c79cff662eb99e2babd3"
+    "md5": "e1d883691fcc26cbeeca43f210c8ac82"
   },
   {
     "filename": "radioidmaps.json",
@@ -53,6 +53,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "20b21cb1c8d1eb526748cb790abd8ce5"
+    "md5": "f17bf53d93d123a401be5cf1175d93d2"
   }
 ]
