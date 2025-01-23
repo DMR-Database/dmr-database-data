@@ -5,7 +5,7 @@
   },
   {
     "filename": "count.json",
-    "md5": "416d49266847cb34f506b336483050f8"
+    "md5": "c624ef7070e539fc58ebb1e007eca27e"
   },
   {
     "filename": "dapnet.json",
@@ -33,7 +33,7 @@
   },
   {
     "filename": "radioid.json",
-    "md5": "72529e8ec63a63ef47958e11cfdb6b1f"
+    "md5": "53da1478c1a30ee580c90367c66e4fbe"
   },
   {
     "filename": "radioidmaps.json",
@@ -57,6 +57,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "aca1e40d5b53894bd4e7fb67f72822ea"
+    "md5": "b7d7cca8784699f336389a1b6c6f2e41"
   }
 ]
