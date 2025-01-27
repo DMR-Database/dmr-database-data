@@ -1,7 +1,7 @@
 [
   {
     "filename": "author.json",
-    "md5": "bf5063fb395a168f70d3ad4e7f601950"
+    "md5": "2866e6637287b8fb0e76accae68379e1"
   },
   {
     "filename": "count.json",
@@ -25,7 +25,7 @@
   },
   {
     "filename": "news.json",
-    "md5": "256dfdb3f75d04252b7158996de13c61"
+    "md5": "cb2aab0ff50f15a6d4a5688ea3f2cf37"
   },
   {
     "filename": "nxdn.json",
@@ -57,6 +57,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "74aed2122babbd24299eb21c5532865b"
+    "md5": "0a01b742b1c86ab0dfc3e747a5a93813"
   }
 ]
