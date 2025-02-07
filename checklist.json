@@ -5,7 +5,7 @@
   },
   {
     "filename": "count.json",
-    "md5": "6e5cef9901d2e93dfac34bdd1d7b8a1e"
+    "md5": "7a782c7a523d2eb8ce9d2fe1d5f41b37"
   },
   {
     "filename": "dapnet.json",
@@ -17,7 +17,7 @@
   },
   {
     "filename": "hamshack.json",
-    "md5": "9c789deed09ee269c673834e23d81e6c"
+    "md5": "a532bbb3e63a11d2df00b66fe971bbf8"
   },
   {
     "filename": "hamvoip.json",
@@ -57,6 +57,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "a9b9459e248ce734367c37568bcae817"
+    "md5": "541d43e428d4c07dfa85212b094da008"
   }
 ]
