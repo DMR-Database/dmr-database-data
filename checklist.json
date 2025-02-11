@@ -5,7 +5,7 @@
   },
   {
     "filename": "count.json",
-    "md5": "c63bc1c3151b1a6a39707bb02ee39d37"
+    "md5": "7057d3f10ab88a9cd5fd0a67f652aa88"
   },
   {
     "filename": "dapnet.json",
@@ -17,7 +17,7 @@
   },
   {
     "filename": "hamshack.json",
-    "md5": "426d02828ad732f2e770c32cb233b465"
+    "md5": "d2c41312d5e8aa8bd478a4df339496a5"
   },
   {
     "filename": "hamvoip.json",
@@ -25,7 +25,7 @@
   },
   {
     "filename": "news.json",
-    "md5": "89bcab63915e09263e1bde1a2620c8d4"
+    "md5": "f1274b801ef7c56c6f67da7231d4bc4e"
   },
   {
     "filename": "nxdn.json",
@@ -57,6 +57,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "ea3a67409c6abc208d19d68b22fb488e"
+    "md5": "e6916102c56c9619f9c603b36f399602"
   }
 ]

@@ -1,10 +1,10 @@
 0d07c4a4d109494e5e7808eddd2bbca7  author.json
-c63bc1c3151b1a6a39707bb02ee39d37  count.json
+7057d3f10ab88a9cd5fd0a67f652aa88  count.json
 2da093890f1fc97a41e9b0c9ee723b69  dapnet.json
 986be254bc01432ac4c0ebdae8d37d28  hackerspaces.json
-426d02828ad732f2e770c32cb233b465  hamshack.json
+d2c41312d5e8aa8bd478a4df339496a5  hamshack.json
 4793d4af78438180be297d8533355ba9  hamvoip.json
-89bcab63915e09263e1bde1a2620c8d4  news.json
+f1274b801ef7c56c6f67da7231d4bc4e  news.json
 5da15eecae0ca286b779158c29881ef6  nxdn.json
 1cde2e9d1fb0d428547cebd36766afb7  radioid.json
 ee5f694194681ccff9881a8d98c5f99e  radioidmaps.json
@@ -12,4 +12,4 @@ ee5f694194681ccff9881a8d98c5f99e  radioidmaps.json
 d0b26cf26c510fc990d9716961b2a164  rptrs.json
 103fa4134f45c872355aa25b9e162826  winners.json
 6bec3e827cfe08f795d4a890b19161fa  maps_database.db
-ea3a67409c6abc208d19d68b22fb488e  radio_database.db
+e6916102c56c9619f9c603b36f399602  radio_database.db
