@@ -5,7 +5,7 @@
   },
   {
     "filename": "count.json",
-    "md5": "001434445a624b52b849a4602eecfda6"
+    "md5": "b34b107d0e96cc8b71c797979e9f3406"
   },
   {
     "filename": "dapnet.json",
@@ -29,7 +29,7 @@
   },
   {
     "filename": "nxdn.json",
-    "md5": "de1a0ad78038ae98e749f86454ab75f2"
+    "md5": "5da15eecae0ca286b779158c29881ef6"
   },
   {
     "filename": "radioid.json",
@@ -37,7 +37,7 @@
   },
   {
     "filename": "radioidmaps.json",
-    "md5": "95fcb4723918194f412fc6448fed91c9"
+    "md5": "ee5f694194681ccff9881a8d98c5f99e"
   },
   {
     "filename": "repeaterbookmaps.json",
@@ -45,7 +45,7 @@
   },
   {
     "filename": "rptrs.json",
-    "md5": "f55ad740eb4950aadcdca5b329591b64"
+    "md5": "d0b26cf26c510fc990d9716961b2a164"
   },
   {
     "filename": "winners.json",
@@ -57,6 +57,6 @@
   },
   {
     "filename": "radio_database.db",
-    "md5": "f13238822f02f84f2e3125af550534d4"
+    "md5": "8011a206a7745123d31b89cefd6f2e12"
   }
 ]
